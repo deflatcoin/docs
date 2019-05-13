@@ -4,7 +4,7 @@ Link 1 (Alfa3):
 
 https://gateway.pinata.cloud/ipfs/QmYanvTGpLHihibCnFgmTDmEHQAcKR2EJLC6hHGDB8ZLYR/
 
-https://iofs.io/ipfs/QmYanvTGpLHihibCnFgmTDmEHQAcKR2EJLC6hHGDB8ZLYR/
+https://ipfs.io/ipfs/QmYanvTGpLHihibCnFgmTDmEHQAcKR2EJLC6hHGDB8ZLYR/
 
 On IPFS local add hash: 
 QmYanvTGpLHihibCnFgmTDmEHQAcKR2EJLC6hHGDB8ZLYR
