@@ -2,16 +2,18 @@
 
 Link 1 (Alfa3):
 
-https://gateway.pinata.cloud/ipfs/QmdgPxSkzjytUHZg982Nu9FgVV8yGopD5rbxVo71EtbFDH/
+https://gateway.pinata.cloud/ipfs/Qmc4HhctouyDXoXqVwEVZhuiwviYWTFF4HoRLK7zraCUwj/
 
-https://ipfs.io/ipfs/QmdgPxSkzjytUHZg982Nu9FgVV8yGopD5rbxVo71EtbFDH/
+https://ipfs.io/ipfs/Qmc4HhctouyDXoXqVwEVZhuiwviYWTFF4HoRLK7zraCUwj/
 
 https://against.network/dex/
 
 On IPFS local add hash: 
-QmdgPxSkzjytUHZg982Nu9FgVV8yGopD5rbxVo71EtbFDH
+Qmc4HhctouyDXoXqVwEVZhuiwviYWTFF4HoRLK7zraCUwj
 
 Deprecated (Alfa 3)
+QmdgPxSkzjytUHZg982Nu9FgVV8yGopD5rbxVo71EtbFDH
+
 QmYanvTGpLHihibCnFgmTDmEHQAcKR2EJLC6hHGDB8ZLYR
 
 Deprecated (Alfa 2):
