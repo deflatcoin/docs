@@ -2,15 +2,15 @@
 
 
 Gateway 1:
-https://gateway.pinata.cloud/ipfs/QmRz69vdqj8wjefJenoJ8o4oY6uCtunaRHVZqqpg7ghfxY/
+https://gateway.pinata.cloud/ipfs/QmPPj4DcC2zkYWhSh7xHodXJ53YX7tUzsUtqccE9QRnsPk/
 
 Gateway 2:
-https://ipfs.io/ipfs/QmRz69vdqj8wjefJenoJ8o4oY6uCtunaRHVZqqpg7ghfxY/
+https://ipfs.io/ipfs/QmPPj4DcC2zkYWhSh7xHodXJ53YX7tUzsUtqccE9QRnsPk/
 
 Home Page with ipfs hotlinks
 https://against.network/
 
-The links loading the IPFS hash: QmRz69vdqj8wjefJenoJ8o4oY6uCtunaRHVZqqpg7ghfxY
+The links loading the IPFS hash: QmPPj4DcC2zkYWhSh7xHodXJ53YX7tUzsUtqccE9QRnsPk
 
 Deprecated Hash List
 
