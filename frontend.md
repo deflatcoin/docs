@@ -12,10 +12,12 @@ On IPFS local and PIN add hash:
 
 Qmc4HhctouyDXoXqVwEVZhuiwviYWTFF4HoRLK7zraCUwj
 
+===================================================================================
 
 Deprecated (Alfa 3)
 QmdgPxSkzjytUHZg982Nu9FgVV8yGopD5rbxVo71EtbFDH
 
+Deprecated (Alfa 3)
 QmYanvTGpLHihibCnFgmTDmEHQAcKR2EJLC6hHGDB8ZLYR
 
 Deprecated (Alfa 2):
