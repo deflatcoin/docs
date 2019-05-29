@@ -2,9 +2,9 @@
 
 Link 1 (Alfa3):
 
-https://gateway.pinata.cloud/ipfs/QmUkqyFVqvFCmjWB7ahBeiDayCd4rMtWg3fN4k2oXMbDCG/
+https://gateway.temporal.cloud/ipfs/Qmc4HhctouyDXoXqVwEVZhuiwviYWTFF4HoRLK7zraCUwj/
 
-https://ipfs.io/ipfs/QmUkqyFVqvFCmjWB7ahBeiDayCd4rMtWg3fN4k2oXMbDCG/
+https://gateway.pinata.cloud/ipfs/QmUkqyFVqvFCmjWB7ahBeiDayCd4rMtWg3fN4k2oXMbDCG/
 
 https://against.network/dex/
 
