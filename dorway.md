@@ -7,8 +7,16 @@ https://gateway.pinata.cloud/ipfs/QmPPj4DcC2zkYWhSh7xHodXJ53YX7tUzsUtqccE9QRnsPk
 Gateway 2:
 https://ipfs.io/ipfs/QmPPj4DcC2zkYWhSh7xHodXJ53YX7tUzsUtqccE9QRnsPk/
 
+Faucet 1:
+https://gateway.temporal.cloud/ipfs/QmZCswPj6UVHwt3MZ98vMSgYKEErxM12KLKfSGLQd8gcAN
+
+Faucet 2:
+https://gateway.temporal.cloud/ipfs/QmZCswPj6UVHwt3MZ98vMSgYKEErxM12KLKfSGLQd8gcAN
+
 Home Page with ipfs hotlinks
 https://against.network/
+https://against.network/faucet/
+
 
 The links loading the IPFS hash: QmPPj4DcC2zkYWhSh7xHodXJ53YX7tUzsUtqccE9QRnsPk
 
