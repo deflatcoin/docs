@@ -11,7 +11,7 @@ Faucet 1:
 https://gateway.temporal.cloud/ipfs/QmZCswPj6UVHwt3MZ98vMSgYKEErxM12KLKfSGLQd8gcAN
 
 Faucet 2:
-https://gateway.temporal.cloud/ipfs/QmZCswPj6UVHwt3MZ98vMSgYKEErxM12KLKfSGLQd8gcAN
+https://gateway.pinata.cloud/ipfs/QmZCswPj6UVHwt3MZ98vMSgYKEErxM12KLKfSGLQd8gcAN
 
 Home Page with ipfs hotlinks
 https://against.network/
