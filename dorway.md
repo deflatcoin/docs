@@ -8,10 +8,10 @@ Gateway 2:
 https://ipfs.io/ipfs/QmPPj4DcC2zkYWhSh7xHodXJ53YX7tUzsUtqccE9QRnsPk/
 
 Faucet 1:
-https://gateway.temporal.cloud/ipfs/QmZCswPj6UVHwt3MZ98vMSgYKEErxM12KLKfSGLQd8gcAN
+https://gateway.temporal.cloud/ipfs/QmWGXYziFRo814APYYY7UzNPRUzetgbtq4t7N8cNmXWjjL
 
 Faucet 2:
-https://gateway.pinata.cloud/ipfs/QmZCswPj6UVHwt3MZ98vMSgYKEErxM12KLKfSGLQd8gcAN
+https://gateway.pinata.cloud/ipfs/QmWGXYziFRo814APYYY7UzNPRUzetgbtq4t7N8cNmXWjjL
 
 Home Page with ipfs hotlinks
 https://against.network/
