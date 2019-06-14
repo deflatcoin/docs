@@ -4,7 +4,7 @@ Link 1 (Alfa3):
 
 https://gateway.temporal.cloud/ipfs/Qmc4HhctouyDXoXqVwEVZhuiwviYWTFF4HoRLK7zraCUwj/
 
-https://gateway.pinata.cloud/ipfs/QmUkqyFVqvFCmjWB7ahBeiDayCd4rMtWg3fN4k2oXMbDCG/
+https://gateway.pinata.cloud/ipfs/QmdfS3hGVbzAVtGndRL4oDRPAgMDpsXf2XLu2mF4838XBY
 
 https://against.network/dex/
 
@@ -13,6 +13,9 @@ On IPFS local and PIN add hash:
 Qmc4HhctouyDXoXqVwEVZhuiwviYWTFF4HoRLK7zraCUwj
 
 ===================================================================================
+
+Deprecated (Alfa 3)
+QmUkqyFVqvFCmjWB7ahBeiDayCd4rMtWg3fN4k2oXMbDCG
 
 Deprecated (Alfa 3)
 QmdgPxSkzjytUHZg982Nu9FgVV8yGopD5rbxVo71EtbFDH
