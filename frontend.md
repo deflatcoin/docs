@@ -4,13 +4,15 @@ Link 1 (Alfa3):
 
 https://gateway.temporal.cloud/ipfs/Qmc4HhctouyDXoXqVwEVZhuiwviYWTFF4HoRLK7zraCUwj/
 
-https://gateway.pinata.cloud/ipfs/QmdfS3hGVbzAVtGndRL4oDRPAgMDpsXf2XLu2mF4838XBY
+https://gateway.pinata.cloud/ipfs/QmSSrUUua1kfS1Sh7NYyLiJjvj3X2t145TnZDiPob6rRRV
 
 https://against.network/dex/
 
 On IPFS local and PIN add hash:
 
 Qmc4HhctouyDXoXqVwEVZhuiwviYWTFF4HoRLK7zraCUwj
+
+QmSSrUUua1kfS1Sh7NYyLiJjvj3X2t145TnZDiPob6rRRV
 
 ===================================================================================
 
