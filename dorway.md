@@ -2,13 +2,13 @@
 
 
 Gateway:
-https://gateway.pinata.cloud/ipfs/QmZkifn7YaFJuABDV4QrHtPz2N5DiZmA8bVkma2yLZ7y6g
+https://gateway.pinata.cloud/ipfs/QmZALHLMsr4Y4TEojnpqkTYASGW9WFFeh4Z7eza9bFLT7R
 
 Faucet:
-https://gateway.pinata.cloud/ipfs/QmX4kukfPvQWZsd7vVEvvTQyPLmb7S93TzfxKSEjSchYnh
+https://gateway.pinata.cloud/ipfs/QmP2NTKsXggz2Cj9Sdk1FTAiwq7r6grMBnRjLQWsUrZ5GY
 
 Release:
-https://gateway.pinata.cloud/ipfs/QmRvZCV3StJUP7KqNowMdPPJ3dVdvYSNBXB5rw3wnD3ysR
+https://gateway.pinata.cloud/ipfs/Qma7DmKpsqNUkEJo1MynBJnr8uuoaeeLkSTEsvgH8mS6v1
 
 Home Page with ipfs hotlinks
 https://against.network/
@@ -16,11 +16,11 @@ https://against.network/
 
 The links loading the IPFS hash: 
 
-QmZkifn7YaFJuABDV4QrHtPz2N5DiZmA8bVkma2yLZ7y6g
+QmZALHLMsr4Y4TEojnpqkTYASGW9WFFeh4Z7eza9bFLT7R
 
-QmX4kukfPvQWZsd7vVEvvTQyPLmb7S93TzfxKSEjSchYnh
+QmP2NTKsXggz2Cj9Sdk1FTAiwq7r6grMBnRjLQWsUrZ5GY
 
-QmRvZCV3StJUP7KqNowMdPPJ3dVdvYSNBXB5rw3wnD3ysR
+Qma7DmKpsqNUkEJo1MynBJnr8uuoaeeLkSTEsvgH8mS6v1
 
 Deprecated Hash List
 
